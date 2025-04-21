@@ -8,9 +8,11 @@ vehicle(bmw, x5, suv, 60000, 2020).
 vehicle(bmw, z4, sport, 70000, 2021).
 vehicle(kia, picanto, sedan, 12000, 2022).
 vehicle(honda, civic, sedan, 6000, 2000).
-vehicle(suzuki, swift, suv, 16000, 2021).
+vehicle(suzuki, swift, sedan, 16000, 2021).
 vehicle(nissan, skyline, sport, 100000, 2022).
 vehicle(mazda, cx30, suv, 45000, 2024).
+vehicle(ford, fiesta , sedan, 33000, 2024).
+vehicle(chevrolet, aveo, sedan, 13000, 2019).
 
 % part2
 %filter by type and budget
